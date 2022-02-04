@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class SkillDemo1Test {
+public class SkillDemoTest1 {
     @Test
     public void subtract() {
         // Fails
